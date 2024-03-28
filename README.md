@@ -1,2 +1,2 @@
-# I-Found-A-Cart
+# is-that-A-Cart
 a fine-tuned YOLOv8 model to perform shopping cart detection
